@@ -1,4 +1,8 @@
-# Exploring the Influence of Key Media Features on Perceived Success: A Study of IMDb Ratings  - README
+# Exploring the Influence of Key Media Features on Perceived Success: A Study of IMDb Ratings
+
+Overview
+
+This project aims to undertake a comprehensive analysis of a collection of datasets containing detailed information about movies and TV shows available on the Netflix platform. Your primary objective is to meticulously examine the provided data to extract intriguing insights. The outcomes of your analysis will be communicated through both a presentation and a well-structured written managerial report.
 
 This Jupyter Notebook contains code and analysis related to predicting IMDb scores of movies based on various features and conducting exploratory data analysis (EDA). The notebook is organized into several sections:
 
