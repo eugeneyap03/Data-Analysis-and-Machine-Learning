@@ -155,6 +155,8 @@ The analysis aims to determine whether movie runtime and genre can be used to pr
 
 ___
 
+Note: This was completed as part of COMP20008 Elements of Data Processing 
+This was a group project completed by Eugene Yap, Leo Kouskouris, Hugh Buntine, Neel Singh
 
 
 
